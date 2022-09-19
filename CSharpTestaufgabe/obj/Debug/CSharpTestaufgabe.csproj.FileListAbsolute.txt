@@ -1,0 +1,7 @@
+C:\Users\Windows\source\repos\CSharpTestaufgabe\CSharpTestaufgabe\bin\Debug\CSharpTestaufgabe.exe.config
+C:\Users\Windows\source\repos\CSharpTestaufgabe\CSharpTestaufgabe\bin\Debug\CSharpTestaufgabe.exe
+C:\Users\Windows\source\repos\CSharpTestaufgabe\CSharpTestaufgabe\bin\Debug\CSharpTestaufgabe.pdb
+C:\Users\Windows\source\repos\CSharpTestaufgabe\CSharpTestaufgabe\obj\Debug\CSharpTestaufgabe.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\CSharpTestaufgabe\CSharpTestaufgabe\obj\Debug\CSharpTestaufgabe.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\CSharpTestaufgabe\CSharpTestaufgabe\obj\Debug\CSharpTestaufgabe.exe
+C:\Users\Windows\source\repos\CSharpTestaufgabe\CSharpTestaufgabe\obj\Debug\CSharpTestaufgabe.pdb
